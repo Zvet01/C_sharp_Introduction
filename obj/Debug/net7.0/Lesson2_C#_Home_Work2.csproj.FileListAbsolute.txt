@@ -1,0 +1,15 @@
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\obj\Debug\net7.0\Lesson2_C#_Home_Work2.csproj.AssemblyReference.cache
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\obj\Debug\net7.0\Lesson2_C#_Home_Work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\obj\Debug\net7.0\Lesson2_C#_Home_Work2.AssemblyInfoInputs.cache
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\obj\Debug\net7.0\Lesson2_C#_Home_Work2.AssemblyInfo.cs
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\obj\Debug\net7.0\Lesson2_C#_Home_Work2.csproj.CoreCompileInputs.cache
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\bin\Debug\net7.0\Lesson2_C#_Home_Work2.exe
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\bin\Debug\net7.0\Lesson2_C#_Home_Work2.deps.json
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\bin\Debug\net7.0\Lesson2_C#_Home_Work2.runtimeconfig.json
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\bin\Debug\net7.0\Lesson2_C#_Home_Work2.dll
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\bin\Debug\net7.0\Lesson2_C#_Home_Work2.pdb
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\obj\Debug\net7.0\Lesson2_C#_Home_Work2.dll
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\obj\Debug\net7.0\refint\Lesson2_C#_Home_Work2.dll
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\obj\Debug\net7.0\Lesson2_C#_Home_Work2.pdb
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\obj\Debug\net7.0\Lesson2_C#_Home_Work2.genruntimeconfig.cache
+C:\Users\folvell\Desktop\My\HomeWork\Lesson1_C#\Lesson2_C#_Home_Work2\obj\Debug\net7.0\ref\Lesson2_C#_Home_Work2.dll
